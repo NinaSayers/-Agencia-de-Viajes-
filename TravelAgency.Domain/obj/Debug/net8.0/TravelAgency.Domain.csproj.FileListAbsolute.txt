@@ -1,0 +1,11 @@
+E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Domain\bin\Debug\net8.0\TravelAgency.Domain.deps.json
+E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Domain\bin\Debug\net8.0\TravelAgency.Domain.dll
+E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Domain\bin\Debug\net8.0\TravelAgency.Domain.pdb
+E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.AssemblyInfoInputs.cache
+E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.AssemblyInfo.cs
+E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.csproj.CoreCompileInputs.cache
+E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.dll
+E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\refint\TravelAgency.Domain.dll
+E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.pdb
+E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\ref\TravelAgency.Domain.dll
