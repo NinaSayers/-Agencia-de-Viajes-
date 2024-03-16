@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Universidad\\3ro\\IS\\PROYECTO\\Proyecto_en_curso\\Código\\TravelAgency\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {}
+    "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {}
   },
   "projects": {
-    "E:\\Universidad\\3ro\\IS\\PROYECTO\\Proyecto_en_curso\\Código\\TravelAgency\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {
+    "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Universidad\\3ro\\IS\\PROYECTO\\Proyecto_en_curso\\Código\\TravelAgency\\TravelAgency.Domain\\TravelAgency.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Domain\\TravelAgency.Domain.csproj",
         "projectName": "TravelAgency.Domain",
-        "projectPath": "E:\\Universidad\\3ro\\IS\\PROYECTO\\Proyecto_en_curso\\Código\\TravelAgency\\TravelAgency.Domain\\TravelAgency.Domain.csproj",
-        "packagesPath": "C:\\Users\\Massy\\.nuget\\packages\\",
-        "outputPath": "E:\\Universidad\\3ro\\IS\\PROYECTO\\Proyecto_en_curso\\Código\\TravelAgency\\TravelAgency.Domain\\obj\\",
+        "projectPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Domain\\TravelAgency.Domain.csproj",
+        "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Massy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,11 +34,34 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -53,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

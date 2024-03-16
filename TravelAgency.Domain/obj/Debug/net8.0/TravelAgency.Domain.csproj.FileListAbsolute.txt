@@ -9,3 +9,18 @@ E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgen
 E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\refint\TravelAgency.Domain.dll
 E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.pdb
 E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\ref\TravelAgency.Domain.dll
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Domain\bin\Debug\net8.0\TravelAgency.Domain.deps.json
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Domain\bin\Debug\net8.0\TravelAgency.Domain.runtimeconfig.json
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Domain\bin\Debug\net8.0\TravelAgency.Domain.dll
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Domain\bin\Debug\net8.0\TravelAgency.Domain.pdb
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.sourcelink.json
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.dll
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\refint\TravelAgency.Domain.dll
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.pdb
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\ref\TravelAgency.Domain.dll
