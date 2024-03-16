@@ -27,3 +27,21 @@ C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Infrastr
 C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Infrastructure\obj\Debug\net8.0\TravelAgency.Infrastructure.pdb
 C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Infrastructure\obj\Debug\net8.0\TravelAgency.Infrastructure.genruntimeconfig.cache
 C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Infrastructure\obj\Debug\net8.0\ref\TravelAgency.Infrastructure.dll
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Infrastructure\bin\Debug\net8.0\TravelAgency.Infrastructure.deps.json
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Infrastructure\bin\Debug\net8.0\TravelAgency.Infrastructure.runtimeconfig.json
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Infrastructure\bin\Debug\net8.0\TravelAgency.Infrastructure.dll
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Infrastructure\bin\Debug\net8.0\TravelAgency.Infrastructure.pdb
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Infrastructure\bin\Debug\net8.0\TravelAgency.Domain.dll
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Infrastructure\bin\Debug\net8.0\TravelAgency.Domain.pdb
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Infrastructure\obj\Debug\net8.0\TravelAgency.Infrastructure.csproj.AssemblyReference.cache
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Infrastructure\obj\Debug\net8.0\TravelAgency.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Infrastructure\obj\Debug\net8.0\TravelAgency.Infrastructure.AssemblyInfoInputs.cache
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Infrastructure\obj\Debug\net8.0\TravelAgency.Infrastructure.AssemblyInfo.cs
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Infrastructure\obj\Debug\net8.0\TravelAgency.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Infrastructure\obj\Debug\net8.0\TravelAgency.Infrastructure.sourcelink.json
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Infrastructure\obj\Debug\net8.0\TravelAg.13181299.Up2Date
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Infrastructure\obj\Debug\net8.0\TravelAgency.Infrastructure.dll
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Infrastructure\obj\Debug\net8.0\refint\TravelAgency.Infrastructure.dll
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Infrastructure\obj\Debug\net8.0\TravelAgency.Infrastructure.pdb
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Infrastructure\obj\Debug\net8.0\TravelAgency.Infrastructure.genruntimeconfig.cache
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Infrastructure\obj\Debug\net8.0\ref\TravelAgency.Infrastructure.dll

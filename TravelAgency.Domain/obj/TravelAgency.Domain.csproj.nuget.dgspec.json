@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {}
+    "E:\\Universidad\\3ro\\IS-BDII\\IS\\PROYECTO\\.Proyecto_en_curso\\Códigos\\Travel Agency (Nanda)\\TravelAgency 3.0\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {
+    "E:\\Universidad\\3ro\\IS-BDII\\IS\\PROYECTO\\.Proyecto_en_curso\\Códigos\\Travel Agency (Nanda)\\TravelAgency 3.0\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Domain\\TravelAgency.Domain.csproj",
+        "projectUniqueName": "E:\\Universidad\\3ro\\IS-BDII\\IS\\PROYECTO\\.Proyecto_en_curso\\Códigos\\Travel Agency (Nanda)\\TravelAgency 3.0\\TravelAgency.Domain\\TravelAgency.Domain.csproj",
         "projectName": "TravelAgency.Domain",
-        "projectPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Domain\\TravelAgency.Domain.csproj",
-        "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Domain\\obj\\",
+        "projectPath": "E:\\Universidad\\3ro\\IS-BDII\\IS\\PROYECTO\\.Proyecto_en_curso\\Códigos\\Travel Agency (Nanda)\\TravelAgency 3.0\\TravelAgency.Domain\\TravelAgency.Domain.csproj",
+        "packagesPath": "C:\\Users\\Massy\\.nuget\\packages\\",
+        "outputPath": "E:\\Universidad\\3ro\\IS-BDII\\IS\\PROYECTO\\.Proyecto_en_curso\\Códigos\\Travel Agency (Nanda)\\TravelAgency 3.0\\TravelAgency.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Massy\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

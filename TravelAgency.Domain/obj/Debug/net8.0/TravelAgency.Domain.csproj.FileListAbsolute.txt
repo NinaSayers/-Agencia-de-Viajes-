@@ -24,3 +24,18 @@ C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Domain\o
 C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.pdb
 C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.genruntimeconfig.cache
 C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Domain\obj\Debug\net8.0\ref\TravelAgency.Domain.dll
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Domain\bin\Debug\net8.0\TravelAgency.Domain.deps.json
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Domain\bin\Debug\net8.0\TravelAgency.Domain.runtimeconfig.json
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Domain\bin\Debug\net8.0\TravelAgency.Domain.dll
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Domain\bin\Debug\net8.0\TravelAgency.Domain.pdb
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.csproj.AssemblyReference.cache
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.AssemblyInfoInputs.cache
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.AssemblyInfo.cs
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.csproj.CoreCompileInputs.cache
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.sourcelink.json
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.dll
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Domain\obj\Debug\net8.0\refint\TravelAgency.Domain.dll
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.pdb
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Domain\obj\Debug\net8.0\TravelAgency.Domain.genruntimeconfig.cache
+E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Domain\obj\Debug\net8.0\ref\TravelAgency.Domain.dll
