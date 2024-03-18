@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAgency.Api", "TravelA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAgency.Application", "TravelAgency.Application\TravelAgency.Application.csproj", "{B68C3442-A8C8-4273-AD0C-C5BC329748C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAgency.Contracts", "TravelAgency.Contracts\TravelAgency.Contracts.csproj", "{3A3434EE-9E06-4199-A6C1-6B55735047C6}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAgency.Domain", "TravelAgency.Domain\TravelAgency.Domain.csproj", "{7AC27E1F-7713-4D21-A862-A7818FC708E3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAgency.Infrastructure", "TravelAgency.Infrastructure\TravelAgency.Infrastructure.csproj", "{5C5FFE46-CED8-461B-8CFA-CC3B9DF4AEC2}"
