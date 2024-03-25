@@ -16,8 +16,9 @@ namespace TravelAgency.Application
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             services.AddScoped<IIdentityService, IdentityService>();
             services.AddScoped<IAgencyService, AgencyService>();
-        
-       
+            services.AddScoped<IHotelService, HotelService>();
+            services.AddScoped<ITouristService, TouristService>();
+            services.AddScoped<IFacilityService, FacilityService>();       
     }
 }
 }

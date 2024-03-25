@@ -64,18 +64,12 @@ namespace TravelAgency.Api.Controllers
         [HttpDelete]
         [Route("delete")]
 
-        public async Task<IActionResult> DeleteAgency(int agency)
+        public async Task<IActionResult> DeleteAgency(int agencyId)
         {
-             _agencyService.DeleteAgencyAsync(agency);
+             _agencyService.DeleteAgencyByIdAsync(agencyId);
            return Ok();
         }
-        // public async Task<IActionResult> DeleteAgency(AgencyDto agency)
-        // {
-        //     System.Console.WriteLine("Entro al controller");
-        //     _agencyService.DeleteAgencyAsync(agency);
-        //     return Ok();
-
-        // }
+       
     }
 
 

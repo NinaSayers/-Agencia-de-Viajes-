@@ -11,6 +11,7 @@ builder.Services.AddSwaggerGen();
 
 var services = builder.Services;
 
+services.AddHttpContextAccessor();
 services.AddApplicationServices();
 services.AddInfraestructureServices(builder.Configuration);
 services.AddCors(options =>
@@ -28,7 +29,7 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-    //await app.InitializeDatabaseAsync();
+    await app.InitializeDatabaseAsync();
     app.UseSwagger();
     app.UseSwaggerUI();
 }
