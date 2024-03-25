@@ -13,7 +13,5 @@ namespace TravelAgency.Domain.Entities
         public string Fax {get; set;} = null!;
         public string Address {get; set;} = null!;
         public string ElectronicAddress {get; set;} = null!;
-
-
     }
 }
