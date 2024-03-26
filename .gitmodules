@@ -1,0 +1,3 @@
+[submodule "ClientApp"]
+	path = TravelAgency.Api/ClientApp/ClientApp
+	url = https://github.com/Daniman30/Travelette
