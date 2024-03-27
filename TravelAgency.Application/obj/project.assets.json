@@ -3274,14 +3274,19 @@
   },
   "packageFolders": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\Massy\\.nuget\\packages\\": {}
 =======
     "C:\\Users\\Dani\\.nuget\\packages\\": {}
 >>>>>>> 5356b3bda2e89b21c73be1e9a064870ce42cd8e4
+=======
+    "C:\\Users\\maria\\.nuget\\packages\\": {}
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "projectUniqueName": "E:\\Universidad\\3ro\\IS-BDII\\IS\\PROYECTO\\.Proyecto_en_curso\\Códigos\\Travel Agency (Nanda)\\TravelAgency 3.0\\TravelAgency.Application\\TravelAgency.Application.csproj",
       "projectName": "TravelAgency.Application",
@@ -3293,25 +3298,35 @@
         "C:\\Users\\Massy\\AppData\\Roaming\\NuGet\\NuGet.Config"
 =======
       "projectUniqueName": "C:\\Users\\Dani\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Application\\TravelAgency.Application.csproj",
+=======
+      "projectUniqueName": "D:\\Travel Agency 2\\TravelAgency.Application\\TravelAgency.Application.csproj",
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
       "projectName": "TravelAgency.Application",
-      "projectPath": "C:\\Users\\Dani\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Application\\TravelAgency.Application.csproj",
-      "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dani\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Application\\obj\\",
+      "projectPath": "D:\\Travel Agency 2\\TravelAgency.Application\\TravelAgency.Application.csproj",
+      "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
+      "outputPath": "D:\\Travel Agency 2\\TravelAgency.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config"
 >>>>>>> 5356b3bda2e89b21c73be1e9a064870ce42cd8e4
+=======
+        "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+<<<<<<< HEAD
 <<<<<<< HEAD
             "E:\\Universidad\\3ro\\IS-BDII\\IS\\PROYECTO\\.Proyecto_en_curso\\Códigos\\Travel Agency (Nanda)\\TravelAgency 3.0\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {
               "projectPath": "E:\\Universidad\\3ro\\IS-BDII\\IS\\PROYECTO\\.Proyecto_en_curso\\Códigos\\Travel Agency (Nanda)\\TravelAgency 3.0\\TravelAgency.Domain\\TravelAgency.Domain.csproj"
@@ -3325,6 +3340,13 @@
             "C:\\Users\\Dani\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj": {
               "projectPath": "C:\\Users\\Dani\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj"
 >>>>>>> 5356b3bda2e89b21c73be1e9a064870ce42cd8e4
+=======
+            "D:\\Travel Agency 2\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {
+              "projectPath": "D:\\Travel Agency 2\\TravelAgency.Domain\\TravelAgency.Domain.csproj"
+            },
+            "D:\\Travel Agency 2\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj": {
+              "projectPath": "D:\\Travel Agency 2\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj"
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
             }
           }
         }
@@ -3365,7 +3387,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

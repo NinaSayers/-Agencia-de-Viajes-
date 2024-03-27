@@ -11,22 +11,18 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
-<<<<<<< HEAD
-[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
-=======
-<<<<<<< HEAD
->>>>>>> master
-=======
->>>>>>> origin/real-Nanda's-Branch
->>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
 [assembly: System.Reflection.AssemblyCompanyAttribute("TravelAgency.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 <<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03e730b62581f467c5090e80df91bc5a54b17473")]
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c2b29b5ee72f71754cd49ed39d37a5847101e70")]
 >>>>>>> 5356b3bda2e89b21c73be1e9a064870ce42cd8e4
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
 [assembly: System.Reflection.AssemblyProductAttribute("TravelAgency.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TravelAgency.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

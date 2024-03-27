@@ -66,15 +66,7 @@ namespace TravelAgency.Api.Controllers
 
         public async Task<IActionResult> DeleteHotel(int hotel)
         {
-<<<<<<< HEAD
-             _hotelService.DeleteHotelByIdAsync(hotel);
-=======
              await _hotelService.DeleteHotelByIdAsync(hotel);
-<<<<<<< HEAD
->>>>>>> master
-=======
->>>>>>> origin/real-Nanda's-Branch
->>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
            return Ok();
         }
         // public async Task<IActionResult> DeleteHotel(HotelDto hotel)
