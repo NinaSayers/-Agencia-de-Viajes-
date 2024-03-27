@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using TravelAgency.Infrastructure;
 
@@ -11,9 +12,11 @@ using TravelAgency.Infrastructure;
 namespace TravelAgency.Infrastructure.Migrations
 {
     [DbContext(typeof(TravelAgencyContext))]
-    partial class TravelAgencyContextModelSnapshot : ModelSnapshot
+    [Migration("20240319031741_LodgingOffers")]
+    partial class LodgingOffers
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -235,8 +238,6 @@ namespace TravelAgency.Infrastructure.Migrations
                     b.ToTable("Hotels");
                 });
 
-<<<<<<< HEAD
-=======
             modelBuilder.Entity("TravelAgency.Domain.Entities.LodgingOffer", b =>
                 {
                     b.Property<int>("Id")
@@ -245,11 +246,7 @@ namespace TravelAgency.Infrastructure.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Description")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("HotelId")
+                    b.Property<int>("HoteId")
                         .HasColumnType("int");
 
                     b.Property<double>("Price")
@@ -257,12 +254,9 @@ namespace TravelAgency.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("HotelId");
-
                     b.ToTable("LodgingOffers");
                 });
 
->>>>>>> origin/real-Nanda's-Branch
             modelBuilder.Entity("TravelAgency.Domain.Entities.Tourist", b =>
                 {
                     b.Property<int>("Id")
@@ -405,20 +399,6 @@ namespace TravelAgency.Infrastructure.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });
-<<<<<<< HEAD
-=======
-
-            modelBuilder.Entity("TravelAgency.Domain.Entities.LodgingOffer", b =>
-                {
-                    b.HasOne("TravelAgency.Domain.Entities.Hotel", "Hotel")
-                        .WithMany()
-                        .HasForeignKey("HotelId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Hotel");
-                });
->>>>>>> origin/real-Nanda's-Branch
 #pragma warning restore 612, 618
         }
     }

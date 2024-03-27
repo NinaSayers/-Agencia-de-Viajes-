@@ -22,6 +22,7 @@ namespace TravelAgency.Infrastructure.Identity
         }
         public async Task<User> CreateUserAsync(User user, string password)
         {
+<<<<<<< HEAD
             try
             {
                 await _userManager.CreateAsync(user, password);
@@ -30,6 +31,12 @@ namespace TravelAgency.Infrastructure.Identity
             {
                 throw e;
             }
+=======
+           
+                await _userManager.CreateAsync(user, password);
+            
+           
+>>>>>>> origin/real-Nanda's-Branch
             return user;
         }
 

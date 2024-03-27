@@ -9,6 +9,10 @@ namespace TravelAgency.Domain.Entities
     public class Facility:BaseEntity
     {
         //!Set restrictions
+<<<<<<< HEAD
         public string Name {get; set;} = null!; 
+=======
+        public string Name {get; set;} = null!; //Must be NON-NULL!!!
+>>>>>>> origin/real-Nanda's-Branch
     }
 }

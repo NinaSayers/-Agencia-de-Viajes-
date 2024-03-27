@@ -16,13 +16,20 @@ namespace TravelAgency.Infrastructure
         public DbSet<Hotel> Hotels { get; set; }
         public DbSet<Tourist> Tourists { get; set; }
         public DbSet<Facility> Facilities { get; set; }
+<<<<<<< HEAD
+=======
+        public DbSet<LodgingOffer> LodgingOffers { get; set; }
+>>>>>>> origin/real-Nanda's-Branch
         
 
         //Override the method to make each Agency's name, Hotel's name and Facility's name unique.
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+<<<<<<< HEAD
             //VALIDATORS HERE????!!!!!!
+=======
+>>>>>>> origin/real-Nanda's-Branch
             //Here we can add other restrictions if needed.
             base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<Agency>().HasIndex(x => x.Name).IsUnique();
