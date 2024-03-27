@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+using Microsoft.AspNetCore.Identity;
+>>>>>>> master
 using Microsoft.EntityFrameworkCore;
 using TravelAgency.Application;
 using TravelAgency.Domain;
@@ -11,7 +15,14 @@ builder.Services.AddSwaggerGen();
 
 var services = builder.Services;
 
+<<<<<<< HEAD
 services.AddApplicationServices();
+=======
+services.AddHttpContextAccessor();
+services.AddApplicationServices(builder.Configuration);
+ services.AddDefaultIdentity<IdentityUser>()
+        .AddEntityFrameworkStores<TravelAgencyContext>();
+>>>>>>> master
 services.AddInfraestructureServices(builder.Configuration);
 services.AddCors(options =>
 {
@@ -28,7 +39,11 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
+<<<<<<< HEAD
     //await app.InitializeDatabaseAsync();
+=======
+    await app.InitializeDatabaseAsync();
+>>>>>>> master
     app.UseSwagger();
     app.UseSwaggerUI();
 }

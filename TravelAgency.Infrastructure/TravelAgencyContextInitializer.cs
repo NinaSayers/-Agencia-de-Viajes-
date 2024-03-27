@@ -81,7 +81,11 @@ namespace TravelAgency.Infrastructure
 
             if (_userManager.Users.All(u => u.UserName != superadmin.UserName))
             {
+<<<<<<< HEAD
                 await _userManager.CreateAsync(superadmin, "superadminpassword");
+=======
+                await _userManager.CreateAsync(superadmin, "Superadminpassword1*");
+>>>>>>> master
                 if (!string.IsNullOrWhiteSpace(superadminRole.Name))
                 {
                     await _userManager.AddToRolesAsync(superadmin, new[] { superadminRole.Name });

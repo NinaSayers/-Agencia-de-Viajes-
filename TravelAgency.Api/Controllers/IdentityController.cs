@@ -24,8 +24,13 @@ namespace TravelAgency.Api.Controllers
         public async Task<IActionResult> CreateUser(RegisterDto registerDto)
         {
 
+<<<<<<< HEAD
             string userId = await _identityService.CreateUserAsync(registerDto);
             return Ok(userId);
+=======
+            var result = await _identityService.CreateUserAsync(registerDto);
+            return Ok(result);
+>>>>>>> master
         }
 
         

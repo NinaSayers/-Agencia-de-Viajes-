@@ -9,6 +9,10 @@ namespace TravelAgency.Infrastructure.DataAccess.IRepository
 {
     public interface IAgencyRepository:IGenericRepository<Agency>
     {
+<<<<<<< HEAD
           Agency GetById(Agency elementId);
+=======
+          
+>>>>>>> master
     }
 }

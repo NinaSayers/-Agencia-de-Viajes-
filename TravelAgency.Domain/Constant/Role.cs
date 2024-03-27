@@ -9,6 +9,7 @@ namespace TravelAgency.Domain.Constant
     {
         public const string SuperAdmin = "SuperAdmin";
         public const string Admin = "Admin";
+        public const string Tourist = "Tourist";
         
     }
 }

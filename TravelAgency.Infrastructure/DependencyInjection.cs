@@ -10,6 +10,7 @@ namespace TravelAgency.Infrastructure
 {
 
     public static class DependencyInjection
+<<<<<<< HEAD
 {
     public static void AddInfraestructureServices(this IServiceCollection services, IConfiguration configuration)
     {
@@ -28,6 +29,30 @@ namespace TravelAgency.Infrastructure
   
     }
 }
+=======
+    {
+        public static void AddInfraestructureServices(this IServiceCollection services, IConfiguration configuration)
+        {
+            var db = services.AddDbContext<TravelAgencyContext>(x =>
+                    { x.UseSqlServer(configuration.GetConnectionString("DefaultConnection")); }
+            services.AddScoped<IIdentityManager, IdentityManager>();
+            services.AddScoped<IAgencyRepository, AgencyRepository>();
+            services.AddScoped<IHotelRepository, HotelRepository>();
+            services.AddScoped<ITouristRepository, TouristRepository>();
+            services.AddScoped<IFacilityRepository, FacilityRepository>();
+            services.AddScoped<ILodgingOfferRepository, LodgingOfferRepository>();
+            services.AddScoped<TravelAgencyContextInitializer>();
+
+            services.AddAuthentication 
+
+            services
+            .AddIdentityCore<User>()
+            .AddRoles<IdentityRole>()
+            .AddEntityFrameworkStores<TravelAgencyContext>();
+    
+        }
+    }
+>>>>>>> master
     
 }
 

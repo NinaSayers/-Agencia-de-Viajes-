@@ -15,9 +15,13 @@ namespace TravelAgency.Infrastructure.DataAccess.Repository
             
         }
         
+<<<<<<< HEAD
         public Agency GetById(Agency elementId)
         {
             return  entity.Find(elementId)!;
         }
+=======
+       
+>>>>>>> master
     }
 }
