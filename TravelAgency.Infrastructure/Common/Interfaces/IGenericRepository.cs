@@ -8,7 +8,11 @@ namespace TravelAgency.Infrastructure.Common.Interfaces
 {
     public interface IGenericRepository<TEntity> where TEntity:BaseEntity
     {
+<<<<<<< HEAD
         Task CreateAsync(TEntity element, CancellationToken cancellationToken = default);
+=======
+        Task <TEntity>CreateAsync(TEntity element, CancellationToken cancellationToken = default);
+>>>>>>> master
         Task UpdateAsync(TEntity element, CancellationToken cancellationToken = default);
         Task<TEntity> GetByIdAsync<TId>(TId elementId, CancellationToken cancellationToken = default);
         Task<IEnumerable<TEntity>> ListAsync(CancellationToken cancellationToken = default);

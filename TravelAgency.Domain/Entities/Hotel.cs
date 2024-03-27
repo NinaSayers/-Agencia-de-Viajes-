@@ -12,6 +12,10 @@ namespace TravelAgency.Domain.Entities
         public string Name {get; set;} = null!;
         public string Category{get; set;} = null!;
         public string Address {get; set;} = null!;
+<<<<<<< HEAD
+=======
+        public IList<LodgingOffer> lodgingOffers{get; private set;} = new List<LodgingOffer>();
+>>>>>>> master
 
     }
 }

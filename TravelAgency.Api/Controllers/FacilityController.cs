@@ -66,7 +66,11 @@ namespace TravelAgency.Api.Controllers
 
         public async Task<IActionResult> DeleteFacility(int facility)
         {
+<<<<<<< HEAD
              _facilityService.DeleteFacilityAsync(facility);
+=======
+            await _facilityService.DeleteFacilityAsync(facility);
+>>>>>>> master
            return Ok();
         }
         // public async Task<IActionResult> DeleteFacility(FacilityDto facility)

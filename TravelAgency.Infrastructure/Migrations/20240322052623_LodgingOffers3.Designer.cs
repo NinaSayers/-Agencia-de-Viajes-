@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using TravelAgency.Infrastructure;
 
@@ -11,9 +12,11 @@ using TravelAgency.Infrastructure;
 namespace TravelAgency.Infrastructure.Migrations
 {
     [DbContext(typeof(TravelAgencyContext))]
-    partial class TravelAgencyContextModelSnapshot : ModelSnapshot
+    [Migration("20240322052623_LodgingOffers3")]
+    partial class LodgingOffers3
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -235,8 +238,6 @@ namespace TravelAgency.Infrastructure.Migrations
                     b.ToTable("Hotels");
                 });
 
-<<<<<<< HEAD
-=======
             modelBuilder.Entity("TravelAgency.Domain.Entities.LodgingOffer", b =>
                 {
                     b.Property<int>("Id")
@@ -262,7 +263,6 @@ namespace TravelAgency.Infrastructure.Migrations
                     b.ToTable("LodgingOffers");
                 });
 
->>>>>>> master
             modelBuilder.Entity("TravelAgency.Domain.Entities.Tourist", b =>
                 {
                     b.Property<int>("Id")
@@ -405,8 +405,6 @@ namespace TravelAgency.Infrastructure.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });
-<<<<<<< HEAD
-=======
 
             modelBuilder.Entity("TravelAgency.Domain.Entities.LodgingOffer", b =>
                 {
@@ -418,7 +416,6 @@ namespace TravelAgency.Infrastructure.Migrations
 
                     b.Navigation("Hotel");
                 });
->>>>>>> master
 #pragma warning restore 612, 618
         }
     }
