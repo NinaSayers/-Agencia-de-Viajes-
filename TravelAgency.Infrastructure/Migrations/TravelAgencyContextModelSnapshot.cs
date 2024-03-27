@@ -262,7 +262,11 @@ namespace TravelAgency.Infrastructure.Migrations
                     b.ToTable("LodgingOffers");
                 });
 
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> origin/real-Nanda's-Branch
+>>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
             modelBuilder.Entity("TravelAgency.Domain.Entities.Tourist", b =>
                 {
                     b.Property<int>("Id")
@@ -418,7 +422,11 @@ namespace TravelAgency.Infrastructure.Migrations
 
                     b.Navigation("Hotel");
                 });
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> origin/real-Nanda's-Branch
+>>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
 #pragma warning restore 612, 618
         }
     }

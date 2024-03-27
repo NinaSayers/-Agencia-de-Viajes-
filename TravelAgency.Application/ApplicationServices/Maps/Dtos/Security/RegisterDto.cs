@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 =======
 using TravelAgency.Domain.Constant;
 
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> origin/real-Nanda's-Branch
+>>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
 
 namespace TravelAgency.Application.ApplicationServices.Maps.Dtos.Security
 {
@@ -17,6 +21,10 @@ namespace TravelAgency.Application.ApplicationServices.Maps.Dtos.Security
 =======
         
         public string role{get; set;} = Role.Tourist;
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> origin/real-Nanda's-Branch
+>>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
     }
 }

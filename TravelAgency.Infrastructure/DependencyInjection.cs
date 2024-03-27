@@ -20,7 +20,11 @@ namespace TravelAgency.Infrastructure
 
 =======
                     { x.UseSqlServer(configuration.GetConnectionString("DefaultConnection")); }
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> origin/real-Nanda's-Branch
+>>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
             services.AddScoped<IIdentityManager, IdentityManager>();
             services.AddScoped<IAgencyRepository, AgencyRepository>();
             services.AddScoped<IHotelRepository, HotelRepository>();
@@ -35,7 +39,11 @@ namespace TravelAgency.Infrastructure
 
             services.AddAuthentication 
 
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> origin/real-Nanda's-Branch
+>>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
             services
             .AddIdentityCore<User>()
             .AddRoles<IdentityRole>()

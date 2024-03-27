@@ -30,7 +30,11 @@ namespace TravelAgency.Api.Controllers
 =======
             var result = await _identityService.CreateUserAsync(registerDto);
             return Ok(result);
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> origin/real-Nanda's-Branch
+>>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
         }
 
         

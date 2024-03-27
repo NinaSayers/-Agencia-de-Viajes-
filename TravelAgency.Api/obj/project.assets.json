@@ -5099,37 +5099,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\maria\\.nuget\\packages\\": {}
+    "C:\\Users\\Dani\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Api\\TravelAgency.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Dani\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Api\\TravelAgency.Api.csproj",
       "projectName": "TravelAgency.Api",
-      "projectPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Api\\TravelAgency.Api.csproj",
-      "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Api\\obj\\",
+      "projectPath": "C:\\Users\\Dani\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Api\\TravelAgency.Api.csproj",
+      "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dani\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Application\\TravelAgency.Application.csproj": {
-              "projectPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Application\\TravelAgency.Application.csproj"
+            "C:\\Users\\Dani\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Application\\TravelAgency.Application.csproj": {
+              "projectPath": "C:\\Users\\Dani\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Application\\TravelAgency.Application.csproj"
             },
-            "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj"
+            "C:\\Users\\Dani\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Dani\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj"
             }
           }
         }
@@ -5197,7 +5195,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

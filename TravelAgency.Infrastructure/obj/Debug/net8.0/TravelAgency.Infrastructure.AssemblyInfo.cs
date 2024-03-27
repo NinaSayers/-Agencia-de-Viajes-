@@ -14,7 +14,11 @@ using System.Reflection;
 <<<<<<< HEAD
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 =======
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> origin/real-Nanda's-Branch
+>>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
 [assembly: System.Reflection.AssemblyCompanyAttribute("TravelAgency.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

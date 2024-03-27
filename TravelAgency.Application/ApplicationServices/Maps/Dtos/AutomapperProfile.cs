@@ -9,7 +9,11 @@ using TravelAgency.Application.ApplicationServices.Maps.Dtos.Hotel;
 <<<<<<< HEAD
 =======
 using TravelAgency.Application.ApplicationServices.Maps.Dtos.LodgingOffer;
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> origin/real-Nanda's-Branch
+>>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
 using TravelAgency.Application.ApplicationServices.Maps.Dtos.Security;
 using TravelAgency.Domain.Entities;
 using TravelAgency.Infrastructure.Identity;
@@ -49,7 +53,11 @@ namespace TravelAgency.Application.ApplicationServices.Maps.Dtos
              CreateMap<LodgingOfferDtoResponse, Domain.Entities.LodgingOffer>();
              CreateMap<Domain.Entities.LodgingOffer, LodgingOfferDtoResponse>();
 
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> origin/real-Nanda's-Branch
+>>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
 
         }
     }

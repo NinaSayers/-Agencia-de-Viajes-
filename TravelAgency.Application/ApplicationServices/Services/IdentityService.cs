@@ -36,7 +36,11 @@ namespace TravelAgency.Application.ApplicationServices.Services
             _identityManager = identityManager;
             _mapper = mapper;
             _jwtTokenGenerator = jwtTokenGenerator;
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> origin/real-Nanda's-Branch
+>>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
         }
 
         public async Task<bool> CheckCredentialsAsync(LoginDto userDto)
@@ -51,7 +55,11 @@ namespace TravelAgency.Application.ApplicationServices.Services
             var savedUser = await _identityManager.CheckCredentialsAsync(user.UserName!, userDto.Password);
             if (savedUser) return savedUser;
             return false;
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> origin/real-Nanda's-Branch
+>>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
         }
 
         public async Task<string> CreateUserAsync(RegisterDto userDto)
@@ -75,6 +83,10 @@ namespace TravelAgency.Application.ApplicationServices.Services
 
            return token;
         }
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> origin/real-Nanda's-Branch
+>>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
     }
 }

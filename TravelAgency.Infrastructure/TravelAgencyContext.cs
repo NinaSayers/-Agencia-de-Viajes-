@@ -19,7 +19,11 @@ namespace TravelAgency.Infrastructure
 <<<<<<< HEAD
 =======
         public DbSet<LodgingOffer> LodgingOffers { get; set; }
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> origin/real-Nanda's-Branch
+>>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
         
 
         //Override the method to make each Agency's name, Hotel's name and Facility's name unique.
@@ -29,7 +33,11 @@ namespace TravelAgency.Infrastructure
 <<<<<<< HEAD
             //VALIDATORS HERE????!!!!!!
 =======
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> origin/real-Nanda's-Branch
+>>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
             //Here we can add other restrictions if needed.
             base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<Agency>().HasIndex(x => x.Name).IsUnique();
