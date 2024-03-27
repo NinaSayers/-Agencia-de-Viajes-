@@ -70,10 +70,15 @@ namespace TravelAgency.Infrastructure
         {
             //Default Role
             var superadminRole = new IdentityRole(Role.SuperAdmin);
+            var touristRole = new IdentityRole(Role.Tourist);
 
             if (_roleManager.Roles.All(r => r.Name != superadminRole.Name))
             {
                 await _roleManager.CreateAsync(superadminRole);
+            }
+            if (_roleManager.Roles.All(r => r.Name != touristRole.Name))
+            {
+                await _roleManager.CreateAsync(touristRole);
             }
 
             //Default User
@@ -81,15 +86,7 @@ namespace TravelAgency.Infrastructure
 
             if (_userManager.Users.All(u => u.UserName != superadmin.UserName))
             {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                await _userManager.CreateAsync(superadmin, "superadminpassword");
-=======
                 await _userManager.CreateAsync(superadmin, "Superadminpassword1*");
->>>>>>> master
-=======
-                await _userManager.CreateAsync(superadmin, "Superadminpassword1*");
->>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
                 if (!string.IsNullOrWhiteSpace(superadminRole.Name))
                 {
                     await _userManager.AddToRolesAsync(superadmin, new[] { superadminRole.Name });

@@ -24,18 +24,8 @@ namespace TravelAgency.Api.Controllers
         public async Task<IActionResult> CreateUser(RegisterDto registerDto)
         {
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-            string userId = await _identityService.CreateUserAsync(registerDto);
-            return Ok(userId);
-=======
             var result = await _identityService.CreateUserAsync(registerDto);
-            return Ok(result);
->>>>>>> master
-=======
-            var result = await _identityService.CreateUserAsync(registerDto);
-            return Ok(result);
->>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
+            return Ok(result.Item1);
         }
 
         
@@ -43,9 +33,9 @@ namespace TravelAgency.Api.Controllers
             [Route("login")]
         public async Task<IActionResult> LogUser(LoginDto loginDto)
         {
-            var userId = await _identityService.CheckCredentialsAsync(loginDto);
+            var user = await _identityService.CheckCredentialsAsync(loginDto);
 
-            return Ok(userId);
+            return Ok(user.Item2);
         }
     }
 }

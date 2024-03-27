@@ -187,11 +187,6 @@ namespace TravelAgency.Infrastructure.Migrations
                     b.ToTable("Agencies");
                 });
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
             modelBuilder.Entity("TravelAgency.Domain.Entities.Facility", b =>
                 {
                     b.Property<int>("Id")
@@ -289,10 +284,6 @@ namespace TravelAgency.Infrastructure.Migrations
                     b.ToTable("Tourists");
                 });
 
-<<<<<<< HEAD
->>>>>>> master
-=======
->>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
             modelBuilder.Entity("TravelAgency.Infrastructure.Identity.User", b =>
                 {
                     b.Property<string>("Id")
@@ -411,11 +402,6 @@ namespace TravelAgency.Infrastructure.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
 
             modelBuilder.Entity("TravelAgency.Domain.Entities.LodgingOffer", b =>
                 {
@@ -427,10 +413,6 @@ namespace TravelAgency.Infrastructure.Migrations
 
                     b.Navigation("Hotel");
                 });
-<<<<<<< HEAD
->>>>>>> master
-=======
->>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
 #pragma warning restore 612, 618
         }
     }

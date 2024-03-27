@@ -12,14 +12,6 @@ namespace TravelAgency.Application.ApplicationServices.IServices
         Task<AgencyDto> CreateAgencyAsync(AgencyDto agencyDto);
         Task<AgencyDto> UpdateAgencyAsync(AgencyDto agencyDto);
         Task<IEnumerable<AgencyDto>> ListAgencyAsync();
-<<<<<<< HEAD
-<<<<<<< HEAD
-        Task DeleteAgencyAsync(int agencyDto);
-=======
         Task DeleteAgencyByIdAsync(int agencyDto);
->>>>>>> master
-=======
-        Task DeleteAgencyByIdAsync(int agencyDto);
->>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
     }
 }

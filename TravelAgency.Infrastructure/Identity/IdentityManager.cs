@@ -10,6 +10,7 @@ namespace TravelAgency.Infrastructure.Identity
         Task AddRoles(string userId, string role);
         Task<bool> CheckCredentialsAsync(string username, string password);
         Task<bool> IsInRoleAsync(string userId, string role);
+        IEnumerable<User> ListUsersAsync();
     }
 
 
@@ -22,28 +23,10 @@ namespace TravelAgency.Infrastructure.Identity
         }
         public async Task<User> CreateUserAsync(User user, string password)
         {
-<<<<<<< HEAD
-<<<<<<< HEAD
-            try
-            {
-                await _userManager.CreateAsync(user, password);
-            }
-            catch (Exception e)
-            {
-                throw e;
-            }
-=======
-           
+            
                 await _userManager.CreateAsync(user, password);
             
            
->>>>>>> master
-=======
-           
-                await _userManager.CreateAsync(user, password);
-            
-           
->>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
             return user;
         }
 
@@ -78,5 +61,10 @@ namespace TravelAgency.Infrastructure.Identity
             return user != null && await _userManager.IsInRoleAsync(user, role);
         }
 
+        public IEnumerable<User> ListUsersAsync()
+        {
+            var users = _userManager.Users;
+            return users;
+        }
     }
 }

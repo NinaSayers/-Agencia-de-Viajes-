@@ -8,7 +8,7 @@ namespace TravelAgency.Application.ApplicationServices.IServices
 {
     public interface IIdentityService
     {
-        Task<string> CreateUserAsync(RegisterDto userDto);
-        Task<bool> CheckCredentialsAsync(LoginDto userDto);
+        Task<(string,string)> CreateUserAsync(RegisterDto userDto);
+        Task<(bool, string)> CheckCredentialsAsync(LoginDto userDto);
     }
 }

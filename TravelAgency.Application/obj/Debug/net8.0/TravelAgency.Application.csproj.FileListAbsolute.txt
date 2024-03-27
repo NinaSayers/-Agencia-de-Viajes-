@@ -27,3 +27,20 @@ C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Applicat
 C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\refint\TravelAgency.Application.dll
 C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.pdb
 C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\ref\TravelAgency.Application.dll
+D:\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.dll
+D:\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\refint\TravelAgency.Application.dll
+D:\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.pdb
+D:\Travel Agency 2\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Application.deps.json
+D:\Travel Agency 2\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Application.dll
+D:\Travel Agency 2\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Application.pdb
+D:\Travel Agency 2\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Domain.dll
+D:\Travel Agency 2\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Infrastructure.dll
+D:\Travel Agency 2\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Domain.pdb
+D:\Travel Agency 2\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Infrastructure.pdb
+D:\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.csproj.AssemblyReference.cache
+D:\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.AssemblyInfoInputs.cache
+D:\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.AssemblyInfo.cs
+D:\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.csproj.CoreCompileInputs.cache
+D:\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAg.4DD6FA7B.Up2Date
+D:\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\ref\TravelAgency.Application.dll
