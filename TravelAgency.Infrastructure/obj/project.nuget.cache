@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kZmOqQ5cmkqFstHrvPHMlay07c85JOCt+FAS09rHicAg5ztoJl3hbX10WLGqXFiMlziUes+VuqP1wGWbMwWZYQ==",
+  "dgSpecHash": "Ec6yIsqvvsmM6HJ/tDHeyJ2m3oXkn59wXrJsTfFaqZJJcWRNM1mx0FYy0xpfrmSSXobVhTikbllV9Pdv1MdKrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj",
+  "projectFilePath": "D:\\Travel Agency 2\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maria\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\maria\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

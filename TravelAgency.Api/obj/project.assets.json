@@ -5104,11 +5104,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Api\\TravelAgency.Api.csproj",
+      "projectUniqueName": "D:\\Travel Agency 2\\TravelAgency.Api\\TravelAgency.Api.csproj",
       "projectName": "TravelAgency.Api",
-      "projectPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Api\\TravelAgency.Api.csproj",
+      "projectPath": "D:\\Travel Agency 2\\TravelAgency.Api\\TravelAgency.Api.csproj",
       "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Api\\obj\\",
+      "outputPath": "D:\\Travel Agency 2\\TravelAgency.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5125,11 +5125,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Application\\TravelAgency.Application.csproj": {
-              "projectPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Application\\TravelAgency.Application.csproj"
+            "D:\\Travel Agency 2\\TravelAgency.Application\\TravelAgency.Application.csproj": {
+              "projectPath": "D:\\Travel Agency 2\\TravelAgency.Application\\TravelAgency.Application.csproj"
             },
-            "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj"
+            "D:\\Travel Agency 2\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj": {
+              "projectPath": "D:\\Travel Agency 2\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj"
             }
           }
         }

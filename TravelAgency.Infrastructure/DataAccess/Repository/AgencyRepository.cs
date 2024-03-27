@@ -16,6 +16,7 @@ namespace TravelAgency.Infrastructure.DataAccess.Repository
         }
         
 <<<<<<< HEAD
+<<<<<<< HEAD
         public Agency GetById(Agency elementId)
         {
             return  entity.Find(elementId)!;
@@ -23,5 +24,8 @@ namespace TravelAgency.Infrastructure.DataAccess.Repository
 =======
        
 >>>>>>> master
+=======
+       
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
     }
 }

@@ -11,23 +11,34 @@ namespace TravelAgency.Infrastructure
 
     public static class DependencyInjection
 <<<<<<< HEAD
+<<<<<<< HEAD
 {
     public static void AddInfraestructureServices(this IServiceCollection services, IConfiguration configuration)
+=======
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
     {
-        var db = services.AddDbContext<TravelAgencyContext>(x =>
-                { x.UseSqlServer(configuration.GetConnectionString("DefaultConnection")); });
+        public static void AddInfraestructureServices(this IServiceCollection services, IConfiguration configuration)
+        {
+            var db = services.AddDbContext<TravelAgencyContext>(x =>
+                    { x.UseSqlServer(configuration.GetConnectionString("DefaultConnection")); }
+            services.AddScoped<IIdentityManager, IdentityManager>();
+            services.AddScoped<IAgencyRepository, AgencyRepository>();
+            services.AddScoped<IHotelRepository, HotelRepository>();
+            services.AddScoped<ITouristRepository, TouristRepository>();
+            services.AddScoped<IFacilityRepository, FacilityRepository>();
+            services.AddScoped<ILodgingOfferRepository, LodgingOfferRepository>();
+            services.AddScoped<TravelAgencyContextInitializer>();
 
+            services.AddAuthentication 
 
-        services.AddScoped<IIdentityManager, IdentityManager>();
-        services.AddScoped<IAgencyRepository, AgencyRepository>();
-        services.AddScoped<TravelAgencyContextInitializer>();
-
-        services
-           .AddIdentityCore<User>()
-           .AddRoles<IdentityRole>()
-           .AddEntityFrameworkStores<TravelAgencyContext>();
-  
+            services
+            .AddIdentityCore<User>()
+            .AddRoles<IdentityRole>()
+            .AddEntityFrameworkStores<TravelAgencyContext>();
+    
+        }
     }
+<<<<<<< HEAD
 }
 =======
     {
@@ -53,6 +64,8 @@ namespace TravelAgency.Infrastructure
         }
     }
 >>>>>>> master
+=======
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
     
 }
 

@@ -14,6 +14,7 @@ namespace TravelAgency.Infrastructure
         //Create an instance to be mapped as a table.
         public DbSet<Agency> Agencies { get; set; }
 <<<<<<< HEAD
+<<<<<<< HEAD
         
 
         //Override the method to make each Agency's name unique.
@@ -26,12 +27,22 @@ namespace TravelAgency.Infrastructure
 
         //Override the method to make each Agency's name, Hotel's name and Facility's name unique.
 >>>>>>> master
+=======
+        public DbSet<Hotel> Hotels { get; set; }
+        public DbSet<Tourist> Tourists { get; set; }
+        public DbSet<Facility> Facilities { get; set; }
+        public DbSet<LodgingOffer> LodgingOffers { get; set; }
+        
+
+        //Override the method to make each Agency's name, Hotel's name and Facility's name unique.
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             //Here we can add other restrictions if needed.
             base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<Agency>().HasIndex(x => x.Name).IsUnique();
+<<<<<<< HEAD
 <<<<<<< HEAD
 
             
@@ -45,5 +56,11 @@ namespace TravelAgency.Infrastructure
             modelBuilder.Entity<Tourist>().HasIndex(x => x.Name).IsUnique();            
         }
 >>>>>>> master
+=======
+            modelBuilder.Entity<Hotel>().HasIndex(x => x.Name).IsUnique(); 
+            modelBuilder.Entity<Facility>().HasIndex(x => x.Name).IsUnique();            
+            modelBuilder.Entity<Tourist>().HasIndex(x => x.Name).IsUnique();            
+        }
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
     }
 }

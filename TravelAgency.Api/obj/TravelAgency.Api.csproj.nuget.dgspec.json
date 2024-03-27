@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Api\\TravelAgency.Api.csproj": {}
+    "D:\\Travel Agency 2\\TravelAgency.Api\\TravelAgency.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Api\\TravelAgency.Api.csproj": {
+    "D:\\Travel Agency 2\\TravelAgency.Api\\TravelAgency.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Api\\TravelAgency.Api.csproj",
+        "projectUniqueName": "D:\\Travel Agency 2\\TravelAgency.Api\\TravelAgency.Api.csproj",
         "projectName": "TravelAgency.Api",
-        "projectPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Api\\TravelAgency.Api.csproj",
+        "projectPath": "D:\\Travel Agency 2\\TravelAgency.Api\\TravelAgency.Api.csproj",
         "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Api\\obj\\",
+        "outputPath": "D:\\Travel Agency 2\\TravelAgency.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Application\\TravelAgency.Application.csproj": {
-                "projectPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Application\\TravelAgency.Application.csproj"
+              "D:\\Travel Agency 2\\TravelAgency.Application\\TravelAgency.Application.csproj": {
+                "projectPath": "D:\\Travel Agency 2\\TravelAgency.Application\\TravelAgency.Application.csproj"
               },
-              "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj"
+              "D:\\Travel Agency 2\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj": {
+                "projectPath": "D:\\Travel Agency 2\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj"
               }
             }
           }
@@ -104,14 +104,14 @@
         }
       }
     },
-    "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Application\\TravelAgency.Application.csproj": {
+    "D:\\Travel Agency 2\\TravelAgency.Application\\TravelAgency.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Application\\TravelAgency.Application.csproj",
+        "projectUniqueName": "D:\\Travel Agency 2\\TravelAgency.Application\\TravelAgency.Application.csproj",
         "projectName": "TravelAgency.Application",
-        "projectPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Application\\TravelAgency.Application.csproj",
+        "projectPath": "D:\\Travel Agency 2\\TravelAgency.Application\\TravelAgency.Application.csproj",
         "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Application\\obj\\",
+        "outputPath": "D:\\Travel Agency 2\\TravelAgency.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -128,11 +128,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {
-                "projectPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Domain\\TravelAgency.Domain.csproj"
+              "D:\\Travel Agency 2\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {
+                "projectPath": "D:\\Travel Agency 2\\TravelAgency.Domain\\TravelAgency.Domain.csproj"
               },
-              "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj"
+              "D:\\Travel Agency 2\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj": {
+                "projectPath": "D:\\Travel Agency 2\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj"
               }
             }
           }
@@ -177,14 +177,14 @@
         }
       }
     },
-    "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {
+    "D:\\Travel Agency 2\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Domain\\TravelAgency.Domain.csproj",
+        "projectUniqueName": "D:\\Travel Agency 2\\TravelAgency.Domain\\TravelAgency.Domain.csproj",
         "projectName": "TravelAgency.Domain",
-        "projectPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Domain\\TravelAgency.Domain.csproj",
+        "projectPath": "D:\\Travel Agency 2\\TravelAgency.Domain\\TravelAgency.Domain.csproj",
         "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Domain\\obj\\",
+        "outputPath": "D:\\Travel Agency 2\\TravelAgency.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -255,14 +255,14 @@
         }
       }
     },
-    "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj": {
+    "D:\\Travel Agency 2\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Travel Agency 2\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj",
         "projectName": "TravelAgency.Infrastructure",
-        "projectPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj",
+        "projectPath": "D:\\Travel Agency 2\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Infrastructure\\obj\\",
+        "outputPath": "D:\\Travel Agency 2\\TravelAgency.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -279,8 +279,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {
-                "projectPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Domain\\TravelAgency.Domain.csproj"
+              "D:\\Travel Agency 2\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {
+                "projectPath": "D:\\Travel Agency 2\\TravelAgency.Domain\\TravelAgency.Domain.csproj"
               }
             }
           }

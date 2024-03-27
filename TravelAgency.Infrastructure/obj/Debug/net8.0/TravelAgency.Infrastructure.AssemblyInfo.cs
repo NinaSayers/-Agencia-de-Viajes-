@@ -15,10 +15,14 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 <<<<<<< HEAD
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63a36e22955c20787f7753d8d91f1f52f64218f3")]
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c2b29b5ee72f71754cd49ed39d37a5847101e70")]
 >>>>>>> master
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
 [assembly: System.Reflection.AssemblyProductAttribute("TravelAgency.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TravelAgency.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

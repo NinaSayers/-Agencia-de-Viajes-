@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1Rh5DRcwm2/o68S3GgbwgxeP1vvzkzFXhRrv+VcDbdezvOy8fmkcsMExE/lSdGKL13bC6ENRqYVOZbvjjUZhDA==",
+  "dgSpecHash": "4BVEtcVt11wbPg/k0Xwf9trHQlzudL0U/qkVBP6jY6eZaV+DySJUMQogoY+2EWrN9Us6r51DWr3QcQUsReYtfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maria\\OneDrive\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Application\\TravelAgency.Application.csproj",
+  "projectFilePath": "D:\\Travel Agency 2\\TravelAgency.Application\\TravelAgency.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maria\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\maria\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

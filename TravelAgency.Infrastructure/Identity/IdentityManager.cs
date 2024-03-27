@@ -23,6 +23,7 @@ namespace TravelAgency.Infrastructure.Identity
         public async Task<User> CreateUserAsync(User user, string password)
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
             try
             {
                 await _userManager.CreateAsync(user, password);
@@ -37,6 +38,12 @@ namespace TravelAgency.Infrastructure.Identity
             
            
 >>>>>>> master
+=======
+           
+                await _userManager.CreateAsync(user, password);
+            
+           
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
             return user;
         }
 

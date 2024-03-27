@@ -27,14 +27,19 @@ namespace TravelAgency.Application.ApplicationServices.Services
             return _mapper.Map<AgencyDto>(agency);
         }
 <<<<<<< HEAD
+<<<<<<< HEAD
         public async Task DeleteAgencyAsync(int agencyDto)
 =======
         public async Task DeleteAgencyByIdAsync(int agencyDto)
 >>>>>>> master
+=======
+        public async Task DeleteAgencyByIdAsync(int agencyDto)
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
         {
             await _agencyRepository.DeleteByIdAsync(agencyDto);
         }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
         // public async Task DeleteAgencyAsync(AgencyDto agencyDto) //!Maybe we would need to define other dto to delete.
         // {
@@ -53,6 +58,12 @@ namespace TravelAgency.Application.ApplicationServices.Services
         {
             var agencies = await _agencyRepository.ListAsync();
 >>>>>>> master
+=======
+
+        public async Task<IEnumerable<AgencyDto>> ListAgencyAsync()
+        {
+            var agencies = await _agencyRepository.ListAsync();
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
             var list = agencies.ToList();
             List <AgencyDto> agenciesfinal = new();
             for (int i = 0; i < agencies.Count(); i++)
@@ -65,11 +76,16 @@ namespace TravelAgency.Application.ApplicationServices.Services
         public async Task<AgencyDto> UpdateAgencyAsync(AgencyDto agencyDto)
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
             var agency = _mapper.Map<Domain.Entities.Agency>(agencyDto);
 =======
             var agency = _agencyRepository.GetById(agencyDto.Id);
             _mapper.Map(agencyDto,agency);
 >>>>>>> master
+=======
+            var agency = _agencyRepository.GetById(agencyDto.Id);
+            _mapper.Map(agencyDto,agency);
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
             await _agencyRepository.UpdateAsync(agency);
             return _mapper.Map<AgencyDto>(agency);
         }

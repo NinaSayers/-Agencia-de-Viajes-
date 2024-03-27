@@ -25,12 +25,17 @@ namespace TravelAgency.Api.Controllers
         {
 
 <<<<<<< HEAD
+<<<<<<< HEAD
             string userId = await _identityService.CreateUserAsync(registerDto);
             return Ok(userId);
 =======
             var result = await _identityService.CreateUserAsync(registerDto);
             return Ok(result);
 >>>>>>> master
+=======
+            var result = await _identityService.CreateUserAsync(registerDto);
+            return Ok(result);
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
         }
 
         
