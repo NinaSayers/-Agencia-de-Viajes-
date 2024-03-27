@@ -5099,11 +5099,16 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Massy\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\Dani\\.nuget\\packages\\": {}
+>>>>>>> 5356b3bda2e89b21c73be1e9a064870ce42cd8e4
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "E:\\Universidad\\3ro\\IS-BDII\\IS\\PROYECTO\\.Proyecto_en_curso\\Códigos\\Travel Agency (Nanda)\\TravelAgency 3.0\\TravelAgency.Api\\TravelAgency.Api.csproj",
       "projectName": "TravelAgency.Api",
       "projectPath": "E:\\Universidad\\3ro\\IS-BDII\\IS\\PROYECTO\\.Proyecto_en_curso\\Códigos\\Travel Agency (Nanda)\\TravelAgency 3.0\\TravelAgency.Api\\TravelAgency.Api.csproj",
@@ -5112,6 +5117,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Massy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+      "projectUniqueName": "C:\\Users\\Dani\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Api\\TravelAgency.Api.csproj",
+      "projectName": "TravelAgency.Api",
+      "projectPath": "C:\\Users\\Dani\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Api\\TravelAgency.Api.csproj",
+      "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dani\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Api\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 5356b3bda2e89b21c73be1e9a064870ce42cd8e4
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -5123,11 +5138,19 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+<<<<<<< HEAD
             "E:\\Universidad\\3ro\\IS-BDII\\IS\\PROYECTO\\.Proyecto_en_curso\\Códigos\\Travel Agency (Nanda)\\TravelAgency 3.0\\TravelAgency.Application\\TravelAgency.Application.csproj": {
               "projectPath": "E:\\Universidad\\3ro\\IS-BDII\\IS\\PROYECTO\\.Proyecto_en_curso\\Códigos\\Travel Agency (Nanda)\\TravelAgency 3.0\\TravelAgency.Application\\TravelAgency.Application.csproj"
             },
             "E:\\Universidad\\3ro\\IS-BDII\\IS\\PROYECTO\\.Proyecto_en_curso\\Códigos\\Travel Agency (Nanda)\\TravelAgency 3.0\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj": {
               "projectPath": "E:\\Universidad\\3ro\\IS-BDII\\IS\\PROYECTO\\.Proyecto_en_curso\\Códigos\\Travel Agency (Nanda)\\TravelAgency 3.0\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj"
+=======
+            "C:\\Users\\Dani\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Application\\TravelAgency.Application.csproj": {
+              "projectPath": "C:\\Users\\Dani\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Application\\TravelAgency.Application.csproj"
+            },
+            "C:\\Users\\Dani\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Dani\\Desktop\\Travel Agency\\TravelAgency\\TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj"
+>>>>>>> 5356b3bda2e89b21c73be1e9a064870ce42cd8e4
             }
           }
         }
@@ -5195,7 +5218,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

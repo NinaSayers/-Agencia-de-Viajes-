@@ -9,11 +9,19 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TravelAgency.Api
 build_property.RootNamespace = TravelAgency.Api
+<<<<<<< HEAD
 build_property.ProjectDir = E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Api\
+=======
+build_property.ProjectDir = C:\Users\Dani\Desktop\Travel Agency\TravelAgency\TravelAgency.Api\
+>>>>>>> 5356b3bda2e89b21c73be1e9a064870ce42cd8e4
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+<<<<<<< HEAD
 build_property.MSBuildProjectDirectory = E:\Universidad\3ro\IS-BDII\IS\PROYECTO\.Proyecto_en_curso\Códigos\Travel Agency (Nanda)\TravelAgency 3.0\TravelAgency.Api
+=======
+build_property.MSBuildProjectDirectory = C:\Users\Dani\Desktop\Travel Agency\TravelAgency\TravelAgency.Api
+>>>>>>> 5356b3bda2e89b21c73be1e9a064870ce42cd8e4
 build_property._RazorSourceGeneratorDebug = 

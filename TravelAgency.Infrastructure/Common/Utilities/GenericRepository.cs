@@ -23,23 +23,12 @@ namespace TravelAgency.Infrastructure.Common.Utilities
 
         public async Task DeleteByIdAsync(int elementId, CancellationToken cancellationToken = default)
         {
-            var element = await entity.FindAsync(elementId);
+            var element = entity.Find(elementId);
             entity.Remove(element);
-            // System.Console.WriteLine("Voy a borrar");
-            // entity.Remove(element);
             await _context.SaveChangesAsync(cancellationToken);
 
         }
 
-        public async Task DeleteAsync(TEntity element, CancellationToken cancellationToken = default)
-        {
-            // var entity = GetByIdAsync(elementID);
-            // entity.Remove(3);.
-            // System.Console.WriteLine("Voy a borrar");
-            // entity.Remove(element);
-            // await _context.SaveChangesAsync(cancellationToken);
-            throw new NotImplementedException();
-        }
 
         public async Task<TEntity> GetByIdAsync<TId>(TId elementId, CancellationToken cancellationToken = default)
         {
@@ -47,10 +36,22 @@ namespace TravelAgency.Infrastructure.Common.Utilities
         }
         
 
+<<<<<<< HEAD
         public async Task CreateAsync(TEntity element, CancellationToken cancellationToken = default)
         {
             entity.Add(element);
             await _context.SaveChangesAsync(cancellationToken);
+=======
+        public async Task<TEntity> CreateAsync(TEntity element, CancellationToken cancellationToken = default)
+        {
+            entity.Add(element);
+            await _context.SaveChangesAsync(cancellationToken);
+            return element;
+<<<<<<< HEAD
+>>>>>>> master
+=======
+>>>>>>> origin/real-Nanda's-Branch
+>>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
         }
 
         public async Task UpdateAsync(TEntity element, CancellationToken cancellationToken = default)
@@ -58,11 +59,15 @@ namespace TravelAgency.Infrastructure.Common.Utilities
             entity.Update(element);
             await _context.SaveChangesAsync(cancellationToken);
         }
-        public async Task<IEnumerable<TEntity>> ListAgencyAsync(CancellationToken cancellationToken = default)
+        public async Task<IEnumerable<TEntity>> ListAsync(CancellationToken cancellationToken = default)
         {
             var entities = await entity.ToListAsync(cancellationToken);
             return entities;
 
+        }
+         public TEntity GetById<TId>(TId elementId)
+        {
+            return  entity.Find(elementId)!;
         }
     }
 }
