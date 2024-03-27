@@ -6,14 +6,7 @@ using AutoMapper;
 using TravelAgency.Application.ApplicationServices.Maps.Dtos.Agency;
 using TravelAgency.Application.ApplicationServices.Maps.Dtos.Facility;
 using TravelAgency.Application.ApplicationServices.Maps.Dtos.Hotel;
-<<<<<<< HEAD
-=======
 using TravelAgency.Application.ApplicationServices.Maps.Dtos.LodgingOffer;
-<<<<<<< HEAD
->>>>>>> master
-=======
->>>>>>> origin/real-Nanda's-Branch
->>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
 using TravelAgency.Application.ApplicationServices.Maps.Dtos.Security;
 using TravelAgency.Domain.Entities;
 using TravelAgency.Infrastructure.Identity;
@@ -28,15 +21,6 @@ namespace TravelAgency.Application.ApplicationServices.Maps.Dtos
              CreateMap<User, UserDto>();
              CreateMap<RegisterDto, User>();
              CreateMap<LoginDto, User>();
-<<<<<<< HEAD
-             CreateMap<FacilityDto, Domain.Entities.Facility>();
-             CreateMap<Domain.Entities.Facility,FacilityDto>();
-             CreateMap<AgencyDto, Domain.Entities.Agency>();
-             CreateMap<Domain.Entities.Agency, AgencyDto>();
-             CreateMap<HotelDto, Domain.Entities.Hotel>();
-             CreateMap<Domain.Entities.Hotel, HotelDto>();
-
-=======
 
              CreateMap<FacilityDto, Domain.Entities.Facility>();
              CreateMap<Domain.Entities.Facility,FacilityDto>();
@@ -53,11 +37,6 @@ namespace TravelAgency.Application.ApplicationServices.Maps.Dtos
              CreateMap<LodgingOfferDtoResponse, Domain.Entities.LodgingOffer>();
              CreateMap<Domain.Entities.LodgingOffer, LodgingOfferDtoResponse>();
 
-<<<<<<< HEAD
->>>>>>> master
-=======
->>>>>>> origin/real-Nanda's-Branch
->>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
 
         }
     }

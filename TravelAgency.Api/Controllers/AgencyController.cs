@@ -2,26 +2,12 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-<<<<<<< HEAD
-=======
 using Microsoft.AspNetCore.Authorization;
-<<<<<<< HEAD
->>>>>>> master
-=======
->>>>>>> origin/real-Nanda's-Branch
->>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using TravelAgency.Application.ApplicationServices.IServices;
 using TravelAgency.Application.ApplicationServices.Maps.Dtos.Agency;
-<<<<<<< HEAD
-=======
 using TravelAgency.Domain.Constant;
-<<<<<<< HEAD
->>>>>>> master
-=======
->>>>>>> origin/real-Nanda's-Branch
->>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
 using TravelAgency.Domain.Entities;
 using TravelAgency.Infrastructure;
 
@@ -39,14 +25,7 @@ namespace TravelAgency.Api.Controllers
 
         [HttpPost]
         [Route("create")]
-<<<<<<< HEAD
-=======
         //[Authorize(Roles = "SuperAdmin")]
-<<<<<<< HEAD
->>>>>>> master
-=======
->>>>>>> origin/real-Nanda's-Branch
->>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
         public async Task<IActionResult> CreateAgency(AgencyDto agency)
         {
             await _agencyService.CreateAgencyAsync(agency);
@@ -90,15 +69,7 @@ namespace TravelAgency.Api.Controllers
 
         public async Task<IActionResult> DeleteAgency(int agencyId)
         {
-<<<<<<< HEAD
-             _agencyService.DeleteAgencyByIdAsync(agencyId);
-=======
             await _agencyService.DeleteAgencyByIdAsync(agencyId);
-<<<<<<< HEAD
->>>>>>> master
-=======
->>>>>>> origin/real-Nanda's-Branch
->>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
            return Ok();
         }
        

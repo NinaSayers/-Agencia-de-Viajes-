@@ -36,22 +36,11 @@ namespace TravelAgency.Infrastructure.Common.Utilities
         }
         
 
-<<<<<<< HEAD
-        public async Task CreateAsync(TEntity element, CancellationToken cancellationToken = default)
-        {
-            entity.Add(element);
-            await _context.SaveChangesAsync(cancellationToken);
-=======
         public async Task<TEntity> CreateAsync(TEntity element, CancellationToken cancellationToken = default)
         {
             entity.Add(element);
             await _context.SaveChangesAsync(cancellationToken);
             return element;
-<<<<<<< HEAD
->>>>>>> master
-=======
->>>>>>> origin/real-Nanda's-Branch
->>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
         }
 
         public async Task UpdateAsync(TEntity element, CancellationToken cancellationToken = default)

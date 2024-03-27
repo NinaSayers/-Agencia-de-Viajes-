@@ -14,17 +14,6 @@ namespace TravelAgency.Application.ApplicationServices.Services
 {
     public class IdentityService : IIdentityService
     {
-<<<<<<< HEAD
-        
-        private readonly ITouristService _touristService;
-        private readonly IIdentityManager _identityManager;
-        private readonly IMapper _mapper;
-        public IdentityService(IIdentityManager identityManager, IMapper mapper, ITouristService touristService)
-        {
-            _touristService =touristService;
-            _identityManager = identityManager;
-            _mapper = mapper;
-=======
 
         private readonly ITouristService _touristService;
         private readonly IIdentityManager _identityManager;
@@ -36,43 +25,19 @@ namespace TravelAgency.Application.ApplicationServices.Services
             _identityManager = identityManager;
             _mapper = mapper;
             _jwtTokenGenerator = jwtTokenGenerator;
-<<<<<<< HEAD
->>>>>>> master
-=======
->>>>>>> origin/real-Nanda's-Branch
->>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
         }
 
         public async Task<bool> CheckCredentialsAsync(LoginDto userDto)
         {
             var user = _mapper.Map<User>(userDto);
-<<<<<<< HEAD
-            if (user == null)return false;
-            var savedUser = await _identityManager.CheckCredentialsAsync(user.UserName!,userDto.Password);
-            return savedUser;
-=======
             if (user == null) return false;
             var savedUser = await _identityManager.CheckCredentialsAsync(user.UserName!, userDto.Password);
             if (savedUser) return savedUser;
             return false;
-<<<<<<< HEAD
->>>>>>> master
-=======
->>>>>>> origin/real-Nanda's-Branch
->>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
         }
 
         public async Task<string> CreateUserAsync(RegisterDto userDto)
         {
-<<<<<<< HEAD
-           var user = _mapper.Map<User>(userDto);
-           var savedUser = await _identityManager.CreateUserAsync(user, userDto.Password);
-           await _identityManager.AddRoles(savedUser.Id,Role.Tourist);
-           await _touristService.CreateTouristAsync(savedUser);
-           
-           return savedUser.Id.ToString();
-        } 
-=======
             //!I have to return more things.
             var user = _mapper.Map<User>(userDto);
             var savedUser = await _identityManager.CreateUserAsync(user, userDto.Password);
@@ -83,10 +48,5 @@ namespace TravelAgency.Application.ApplicationServices.Services
 
            return token;
         }
-<<<<<<< HEAD
->>>>>>> master
-=======
->>>>>>> origin/real-Nanda's-Branch
->>>>>>> 8c8298ebcb71b5da9c90eea6cc660729afc04947
     }
 }
