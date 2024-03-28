@@ -15,6 +15,5 @@ namespace TravelAgency.Domain.Entities
         public Hotel? Hotel { get; set; }
         public string Description { get; set; } = null!;
         public double Price { get; set; }
-        public IList<AgencyOffer> AgencyOffers{get; private set;} = new List<AgencyOffer>();
     }
 }

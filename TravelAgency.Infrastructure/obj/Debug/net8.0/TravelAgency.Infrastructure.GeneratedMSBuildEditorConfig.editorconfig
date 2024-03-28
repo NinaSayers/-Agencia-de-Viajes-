@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TravelAgency.Infrastructure
+<<<<<<< HEAD
 build_property.ProjectDir = C:\repos\Travel Agency 2\TravelAgency.Infrastructure\
+=======
+build_property.ProjectDir = D:\Travel Agency 2\TravelAgency.Infrastructure\
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

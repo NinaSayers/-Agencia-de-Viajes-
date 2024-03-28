@@ -4084,12 +4084,17 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\MPC\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+=======
+    "C:\\Users\\maria\\.nuget\\packages\\": {}
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "c:\\repos\\Travel Agency 2\\TravelAgency.Domain\\TravelAgency.Domain.csproj",
       "projectName": "TravelAgency.Domain",
       "projectPath": "c:\\repos\\Travel Agency 2\\TravelAgency.Domain\\TravelAgency.Domain.csproj",
@@ -4102,6 +4107,16 @@
       "configFilePaths": [
         "C:\\Users\\MPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+      "projectUniqueName": "D:\\Travel Agency 2\\TravelAgency.Domain\\TravelAgency.Domain.csproj",
+      "projectName": "TravelAgency.Domain",
+      "projectPath": "D:\\Travel Agency 2\\TravelAgency.Domain\\TravelAgency.Domain.csproj",
+      "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
+      "outputPath": "D:\\Travel Agency 2\\TravelAgency.Domain\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4109,7 +4124,10 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
         "C:\\Program Files\\dotnet\\library-packs": {},
+=======
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4122,6 +4140,14 @@
         "warnAsError": [
           "NU1605"
         ]
+<<<<<<< HEAD
+=======
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
       }
     },
     "frameworks": {
@@ -4161,7 +4187,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79
       }
     }
   }

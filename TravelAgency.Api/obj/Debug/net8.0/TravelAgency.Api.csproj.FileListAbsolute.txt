@@ -186,6 +186,7 @@ C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Api\obj\
 C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Api\obj\Debug\net8.0\TravelAgency.Api.pdb
 C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Api\obj\Debug\net8.0\TravelAgency.Api.genruntimeconfig.cache
 C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Api\obj\Debug\net8.0\ref\TravelAgency.Api.dll
+<<<<<<< HEAD
 D:\Travel Agency 2\TravelAgency.Api\obj\Debug\net8.0\TravelAgency.Api.dll
 D:\Travel Agency 2\TravelAgency.Api\obj\Debug\net8.0\refint\TravelAgency.Api.dll
 D:\Travel Agency 2\TravelAgency.Api\obj\Debug\net8.0\TravelAgency.Api.pdb
@@ -494,3 +495,5 @@ C:\repos\Travel Agency 2\TravelAgency.Api\obj\Debug\net8.0\refint\TravelAgency.A
 C:\repos\Travel Agency 2\TravelAgency.Api\obj\Debug\net8.0\TravelAgency.Api.pdb
 C:\repos\Travel Agency 2\TravelAgency.Api\obj\Debug\net8.0\TravelAgency.Api.genruntimeconfig.cache
 C:\repos\Travel Agency 2\TravelAgency.Api\obj\Debug\net8.0\ref\TravelAgency.Api.dll
+=======
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79

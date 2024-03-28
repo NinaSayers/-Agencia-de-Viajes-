@@ -27,6 +27,7 @@ C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Infrastr
 C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Infrastructure\obj\Debug\net8.0\TravelAgency.Infrastructure.pdb
 C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Infrastructure\obj\Debug\net8.0\TravelAgency.Infrastructure.genruntimeconfig.cache
 C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Infrastructure\obj\Debug\net8.0\ref\TravelAgency.Infrastructure.dll
+<<<<<<< HEAD
 D:\Travel Agency 2\TravelAgency.Infrastructure\obj\Debug\net8.0\TravelAgency.Infrastructure.csproj.AssemblyReference.cache
 D:\Travel Agency 2\TravelAgency.Infrastructure\obj\Debug\net8.0\TravelAgency.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
 D:\Travel Agency 2\TravelAgency.Infrastructure\obj\Debug\net8.0\TravelAgency.Infrastructure.AssemblyInfoInputs.cache
@@ -61,3 +62,5 @@ C:\repos\Travel Agency 2\TravelAgency.Infrastructure\obj\Debug\net8.0\refint\Tra
 C:\repos\Travel Agency 2\TravelAgency.Infrastructure\obj\Debug\net8.0\TravelAgency.Infrastructure.pdb
 C:\repos\Travel Agency 2\TravelAgency.Infrastructure\obj\Debug\net8.0\TravelAgency.Infrastructure.genruntimeconfig.cache
 C:\repos\Travel Agency 2\TravelAgency.Infrastructure\obj\Debug\net8.0\ref\TravelAgency.Infrastructure.dll
+=======
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79

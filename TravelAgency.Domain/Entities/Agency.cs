@@ -13,7 +13,7 @@ namespace TravelAgency.Domain.Entities
         public string Fax {get; set;} = null!;
         public string Address {get; set;} = null!;
         public string ElectronicAddress {get; set;} = null!;
-        public IList<AgencyOffer> AgencyOffers{get; private set;} = new List<AgencyOffer>();
+
 
     }
 }

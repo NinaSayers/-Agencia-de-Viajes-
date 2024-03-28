@@ -49,6 +49,7 @@ namespace TravelAgency.Application.ApplicationServices.Services
             var tourist = _mapper.Map<Tourist>(touristDto);
             await _touristRepository.UpdateAsync(tourist);
             return _mapper.Map<Tourist>(tourist);
+        
             
         }
          public async Task DeleteTouristByIdAsync(int touristDto)

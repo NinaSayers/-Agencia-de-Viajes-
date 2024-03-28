@@ -27,6 +27,7 @@ C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Applicat
 C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\refint\TravelAgency.Application.dll
 C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.pdb
 C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\ref\TravelAgency.Application.dll
+<<<<<<< HEAD
 D:\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.dll
 D:\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\refint\TravelAgency.Application.dll
 D:\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.pdb
@@ -61,3 +62,5 @@ C:\repos\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.
 C:\repos\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\refint\TravelAgency.Application.dll
 C:\repos\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.pdb
 C:\repos\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\ref\TravelAgency.Application.dll
+=======
+>>>>>>> 67c808a2e2f44d7d88cebfc9cef18cf136ae4f79

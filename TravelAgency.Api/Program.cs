@@ -17,6 +17,7 @@ services.AddApplicationServices(builder.Configuration);
  services.AddDefaultIdentity<IdentityUser>()
         .AddEntityFrameworkStores<TravelAgencyContext>();
 services.AddInfraestructureServices(builder.Configuration);
+
 services.AddCors(options =>
 {
     options.AddDefaultPolicy(builder =>
