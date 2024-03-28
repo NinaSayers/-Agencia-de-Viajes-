@@ -1,0 +1,63 @@
+E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Application.deps.json
+E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Application.dll
+E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Application.pdb
+E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.AssemblyInfoInputs.cache
+E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.AssemblyInfo.cs
+E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.csproj.CoreCompileInputs.cache
+E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.dll
+E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\refint\TravelAgency.Application.dll
+E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.pdb
+E:\Universidad\3ro\IS\PROYECTO\Proyecto_en_curso\Código\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\ref\TravelAgency.Application.dll
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.sourcelink.json
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Application.deps.json
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Application.dll
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Application.pdb
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Domain.dll
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Infrastructure.dll
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Domain.pdb
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Infrastructure.pdb
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\TravelAg.4DD6FA7B.Up2Date
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.dll
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\refint\TravelAgency.Application.dll
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.pdb
+C:\Users\maria\OneDrive\Desktop\Travel Agency\TravelAgency\TravelAgency.Application\obj\Debug\net8.0\ref\TravelAgency.Application.dll
+D:\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.dll
+D:\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\refint\TravelAgency.Application.dll
+D:\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.pdb
+D:\Travel Agency 2\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Application.deps.json
+D:\Travel Agency 2\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Application.dll
+D:\Travel Agency 2\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Application.pdb
+D:\Travel Agency 2\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Domain.dll
+D:\Travel Agency 2\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Infrastructure.dll
+D:\Travel Agency 2\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Domain.pdb
+D:\Travel Agency 2\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Infrastructure.pdb
+D:\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.csproj.AssemblyReference.cache
+D:\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.AssemblyInfoInputs.cache
+D:\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.AssemblyInfo.cs
+D:\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.csproj.CoreCompileInputs.cache
+D:\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAg.4DD6FA7B.Up2Date
+D:\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\ref\TravelAgency.Application.dll
+C:\repos\Travel Agency 2\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Application.deps.json
+C:\repos\Travel Agency 2\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Application.dll
+C:\repos\Travel Agency 2\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Application.pdb
+C:\repos\Travel Agency 2\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Domain.dll
+C:\repos\Travel Agency 2\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Infrastructure.dll
+C:\repos\Travel Agency 2\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Domain.pdb
+C:\repos\Travel Agency 2\TravelAgency.Application\bin\Debug\net8.0\TravelAgency.Infrastructure.pdb
+C:\repos\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.csproj.AssemblyReference.cache
+C:\repos\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.AssemblyInfoInputs.cache
+C:\repos\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.AssemblyInfo.cs
+C:\repos\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.csproj.CoreCompileInputs.cache
+C:\repos\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.csproj.CopyComplete
+C:\repos\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.dll
+C:\repos\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\refint\TravelAgency.Application.dll
+C:\repos\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\TravelAgency.Application.pdb
+C:\repos\Travel Agency 2\TravelAgency.Application\obj\Debug\net8.0\ref\TravelAgency.Application.dll
